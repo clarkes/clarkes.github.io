@@ -1,0 +1,12 @@
+body {
+  position:fixed;
+  top:0px;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  background-color:blue;
+  background-repeat:repeat-x;
+  font-family: tahoma, Arial, sans-serif;
+  color:#FFFFFF;
+  text-align:center;
+}
